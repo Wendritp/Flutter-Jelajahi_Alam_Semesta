@@ -54,7 +54,7 @@ class _ProfilePageState extends State<ProfilePage> {
                     ),
                   ),
                   Text(
-                    "         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\n         It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+                    "         Jelajahi Alam Semesta Adalah aplikasi yang dibuat untuk mempelajari tentang berbagai sistem tata surya yang ada di dunia ini. Aplikasi ini dibuat dengan desain yang interaktif dan menarik. \n         Sehingga Pengguna menjadi lebih semangat dalam mempelajari Planet. \nList Planet Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus",
                     style: TextStyle(color: Colors.white60),
                   ),
                   Padding(
@@ -65,7 +65,7 @@ class _ProfilePageState extends State<ProfilePage> {
                     ),
                   ),
                   Text(
-                    "         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\n         It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+                    "https://dribbble.com/realvjy \nhttps://id.wikipedia.org/",
                     style: TextStyle(color: Colors.white60),
                   )
                 ],
